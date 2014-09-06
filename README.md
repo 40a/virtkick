@@ -1,4 +1,4 @@
-# VirtKick. Cloud made easy.
+# VirtKick. Cloud made easy. [![Gratipay](https://img.shields.io/gratipay/Nowaker.svg?style=flat-square)](https://gratipay.com/Nowaker/)
 
 VirtKick is a simple, open source orchestrator.
 Managing virtual machines or Docker containers has never been easier.
@@ -18,15 +18,18 @@ All the user and admin documentation is here too.
 You will find source code in these repositories:
 
 - [virtkick-webapp](https://github.com/virtkick/virtkick-website), VirtKick user & admin web panel
-- virtkick-backend, a VirtKick backend that talks with hypervisors (not yet published)
+- [virtkick-webvirtmgr-backend](https://github.com/virtkick/virtkick-webvirtmgr-backend), a VirtKick backend that talks with hypervisors
 - [virtkick-website](https://github.com/virtkick/virtkick-website), a website at [virtkick.io](https://www.virtkick.io/)
 - [virtkick-prototype](https://github.com/virtkick/virtkick-prototype), a static prototype at [demo.virtkick.io](https://demo.virtkick.io/)
 
 
 # Sponsors
 
-[Become one now](https://www.virtkick.io/become-a-sponsor.html) - sponsoring packages are limited!
+- Tip us weekly with Gratipay: [![Donate with Gratipay](https://img.shields.io/gratipay/Nowaker.svg?style=flat-square)](https://gratipay.com/Nowaker/)
+- One-time donate with PayPal: [![Donate with PayPal](https://raw.githubusercontent.com/virtkick/virtkick/master/paypal-donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AGF4FPG7JZ7NY&lc=US)
+- [Become a corporate sponsor](https://www.virtkick.io/become-a-sponsor.html).
 
+Thanks for your support!
 
 # License
 
@@ -45,3 +48,13 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see https://www.gnu.org/licenses/agpl-3.0.html.
+
+
+# Trademark
+
+The VirtKick name and logo are trademarks of Damian Nowak.
+You may not use them for promotional purposes,
+or in any way that claims, suggests or looks like
+there's a relationship or endorsement by VirtKick.
+
+Other marks and names mentioned herein may be trademarks of their respective companies.
