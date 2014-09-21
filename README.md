@@ -17,7 +17,7 @@ All the user and admin documentation is here too.
 
 You will find source code in these repositories:
 
-- [virtkick-webapp](https://github.com/virtkick/virtkick-website), VirtKick user & admin web panel
+- [virtkick-webapp](https://github.com/virtkick/virtkick-webapp), VirtKick user & admin web panel
 - [virtkick-webvirtmgr-backend](https://github.com/virtkick/virtkick-webvirtmgr-backend), a VirtKick backend that talks with hypervisors
 - [virtkick-website](https://github.com/virtkick/virtkick-website), a website at [virtkick.io](https://www.virtkick.io/)
 - [virtkick-prototype](https://github.com/virtkick/virtkick-prototype), a static prototype at [demo.virtkick.io](https://demo.virtkick.io/)
