@@ -1,4 +1,4 @@
-# VirtKick. Cloud made easy. [![Gratipay](https://img.shields.io/gratipay/Nowaker.svg?style=flat-square)](https://gratipay.com/Nowaker/)
+# VirtKick. Cloud made easy. [![Gratipay](https://img.shields.io/gratipay/virtkick.svg?style=flat-square)](https://gratipay.com/virtkick/)
 
 VirtKick is a simple, open source orchestrator.
 Managing virtual machines or Docker containers has never been easier.
@@ -17,8 +17,10 @@ All the user and admin documentation is here too.
 
 You will find source code in these repositories:
 
+- [virtkick-starter](https://github.com/virtkick/virtkick-starter), one-click install & start VirtKick
 - [virtkick-webapp](https://github.com/virtkick/virtkick-webapp), VirtKick user & admin web panel
-- [virtkick-webvirtmgr-backend](https://github.com/virtkick/virtkick-webvirtmgr-backend), a VirtKick backend that talks with hypervisors
+- [virtkick-backend](https://github.com/virtkick/virtkick-backend), a VirtKick backend that talks with hypervisors
+- [virtkick-proxy](https://github.com/virtkick/virtkick-proxy), an HTTP reverse proxy with support for noVNC
 - [virtkick-website](https://github.com/virtkick/virtkick-website), a website at [virtkick.io](https://www.virtkick.io/)
 - [virtkick-prototype](https://github.com/virtkick/virtkick-prototype), a static prototype at [demo.virtkick.io](https://demo.virtkick.io/)
 
