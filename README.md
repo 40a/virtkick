@@ -3,6 +3,10 @@
 VirtKick is a simple, open source orchestrator.
 Managing virtual machines or Docker containers has never been easier.
 
+<p align="center">
+  <img src="https://raw.github.com/virtkick/virtkick/master/indiegogo.png" />
+</p>
+
 ![VirtKick panel](https://raw.github.com/virtkick/virtkick/master/screenshot.png)
 
 1-Click Install | User Centric | E-commerce Enabled
