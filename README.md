@@ -23,7 +23,8 @@ All the user and admin documentation is here too.
 
 You will find source code in these repositories:
 
-- [virtkick-starter](https://github.com/virtkick/virtkick-starter), one-click install & start VirtKick
+- [virtkick-package](https://github.com/virtkick/virtkick-package), click & play binary packages
+- [virtkick-starter](https://github.com/virtkick/virtkick-starter), one-click installer for development environments
 - [virtkick-webapp](https://github.com/virtkick/virtkick-webapp), VirtKick user & admin web panel
 - [virtkick-backend](https://github.com/virtkick/virtkick-backend), a VirtKick backend that talks with hypervisors
 - [virtkick-proxy](https://github.com/virtkick/virtkick-proxy), an HTTP reverse proxy with support for noVNC
