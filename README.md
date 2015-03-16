@@ -3,12 +3,6 @@
 VirtKick is a simple, open source orchestrator.
 Managing virtual machines or Docker containers has never been easier.
 
-<p align="center">
-  <a href="https://www.indiegogo.com/projects/virtkick-take-cloud-back">
-    <img src="https://raw.github.com/virtkick/virtkick/master/indiegogo.png" />
-  </a>
-</p>
-
 ![VirtKick panel](https://raw.github.com/virtkick/virtkick/master/screenshot.png)
 
 1-Click Install | User Centric | E-commerce Enabled
